@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace Employee_Portal.Controllers
 {
     // Hello....
+    //asdfg
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
